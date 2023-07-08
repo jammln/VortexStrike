@@ -1,5 +1,7 @@
 # VortexStrike
 
-it's not Dangerous file
+IT'S A JUST DANGEROUS FILE
 
-use for enjoy
+this malware is destroy MBR!
+
+DO NOT RUN IIN REAL PC
